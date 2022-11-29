@@ -1,0 +1,4 @@
+1. the lack of database of names
+2. i could not figure out how to write a code that could permute the alphabet and make 11 million names
+
+i did not reach the searching part.
